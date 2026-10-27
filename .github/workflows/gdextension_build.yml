@@ -1,6 +1,5 @@
 name: 🛠️ GDExtension Build
 on:
-  workflow_dispatch:
   push:
     paths:
       [
